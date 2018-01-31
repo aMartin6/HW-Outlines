@@ -1,6 +1,6 @@
 # HW 2
 ## Due Thursday, Feb 1 @ 1pm
-Normally you would have a pre-lab due at this time, but the focus of the Turtle lab is coding because we are working our way through Python basics.  This is also a great opportunity to approach GitHub another way.
+Normally you would have a pre-lab due at this time, but the focus of the Turtle lab is coding, so this homework involves working our way through Python basics.  This is also a great opportunity to approach GitHub another way.
 
 __Bring your laptop to lab tomorrow, if you'd like help to install Anaconda and GitHub Desktop__
 
@@ -17,13 +17,13 @@ __Bring your laptop to lab tomorrow, if you'd like help to install Anaconda and 
 
 ### Intsructions
 
-1.  We did this in class, but I leave this here as a resource:
+1.  We did this in class, but I leave this here as a resource, in case you need to make a new repository or file:
 
     Follow the instructions in the GitHub Hello World document: https://guides.github.com/activities/hello-world/ 
     * make a repository on the Physics-PacU organization named after you - make sure you like this name
     * within that repository, make a new file - call it HW2_ReadingNotes.md
     * Notice it is a ".md" extension.  This stands for Markdown, which is a language in to quickly format documents.  It is the same language you see in Jupyter Notebook cells.
-    * Take any reading notes in this file
+    * Take any reading notes in this file - *these notes are for you, I look them over and check that you did work that will be useful for you to grow your understanding of python and physics.*
 
 2.  Do the [Runestone Assignment](https://runestone.academy/runestone/static/PHY325/index.html) named HW2
 
