@@ -1,6 +1,6 @@
 # HW 2
 ## Due Thursday, Feb 1 @ 1pm
-Normally you would have a pre-lab due at this time, but the focus of the Turtle lab is coding, not physics, so code practice is our focus.  This is also a great opportunity to approach GitHub another way.
+Normally you would have a pre-lab due at this time, but the focus of the Turtle lab is coding because we are working our way through Python basics.  This is also a great opportunity to approach GitHub another way.
 
 __Bring your laptop to lab tomorrow, if you'd like help to install Anaconda and GitHub Desktop__
 
