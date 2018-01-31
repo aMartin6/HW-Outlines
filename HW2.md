@@ -17,8 +17,8 @@ __Bring your laptop to lab tomorrow, if you'd like help to install Anaconda and 
 
 ### Intsructions
 
-1.  We did this in class, but I leave this here as a resource, in case you need to make a new repository or file:
-
+1.  Make a Repo on GitHub 
+    We did this in class, but I leave this here as a resource, in case you need to make a new repository or file.
     Follow the instructions in the GitHub Hello World document: https://guides.github.com/activities/hello-world/ 
     * make a repository on the Physics-PacU organization named after you - make sure you like this name
     * within that repository, make a new file - call it HW2_ReadingNotes.md
@@ -28,13 +28,15 @@ __Bring your laptop to lab tomorrow, if you'd like help to install Anaconda and 
 2.  Do the [Runestone Assignment](https://runestone.academy/runestone/static/PHY325/index.html) named HW2
 
 ### Reading: 
-* GitHub Hello World document: https://guides.github.com/activities/hello-world/ (as above)
 * Interactive reading in Runestone (as above)
 * Newman's __Computational Physics__
   * Section 2.3 - Control Statements If/While
   * Section 2.5 -- Control Statements For Loop
   
 We will practice these concepts in lab.  We'll spend more time working with the GitHub workflow.
+
+### Resource:
+* GitHub Hello World tutorial: https://guides.github.com/activities/hello-world/ (as above)
 
 
 
