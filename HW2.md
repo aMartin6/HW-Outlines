@@ -17,9 +17,10 @@ __Bring your laptop to lab tomorrow, if you'd like help to install Anaconda and 
 
 ### Intstructions
 
-1.  Do your reading notes on GitHub in the file HW2_ReadingNotes.md as we discussed in class. If you didn't name it with a ".md" extenstion, you can change it.  Why?  his stands for Markdown, which is a language in to quickly format documents.  It is the same language you see in Jupyter Notebook cells.
+1.  Do your reading notes on GitHub in the file HW2_ReadingNotes.md as we discussed in class. 
 
-   If you need a reminder of what/how we did, see the __Resources__ section below.
+    If you didn't name it with a ".md" extenstion, you can change it.  Why?  
+    This stands for Markdown, which is a language in to quickly format documents.  It is the same language you see in Jupyter Notebook cells.  If you need a reminder of what/how we did, see the __Resources__ section below.
 
 2.  Do the [Runestone Assignment](https://runestone.academy/runestone/static/PHY325/index.html) named HW2
 
