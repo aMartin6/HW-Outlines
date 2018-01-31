@@ -35,13 +35,14 @@ We will practice these concepts in lab.  We'll spend more time working with the 
 ### Resource:
 * GitHub Hello World tutorial: https://guides.github.com/activities/hello-world/ (as above)
 
-#### Make a repo/file on GitHub 
-    We did this in class, but I leave this here as a resource, in case you need to make a new repository or file.
-    Follow the instructions in the GitHub Hello World document: https://guides.github.com/activities/hello-world/ 
-    * make a repository on the Physics-PacU organization named after you - make sure you like this name
-    * within that repository, make a new file - call it HW2_ReadingNotes.md
-    * Notice it is a ".md" extension.  This stands for Markdown, which is a language in to quickly format documents.  It is the same language you see in Jupyter Notebook cells.
-    * Take any reading notes in this file - *these notes are for you, I look them over and check that you did work that will be useful for you to grow your understanding of python and physics.*
+__Make a repo/file on GitHub__ 
+
+We did this in class, but I leave this here as a resource, in case you need to make a new repository or file.  Follow the instructions in the GitHub Hello World document: https://guides.github.com/activities/hello-world/ 
+    
+* make a repository on the Physics-PacU organization named after you - make sure you like this name
+* within that repository, make a new file - call it HW2_ReadingNotes.md
+* Notice it is a ".md" extension.  This stands for Markdown, which is a language in to quickly format documents.  It is the same language you see in Jupyter Notebook cells.
+* Take any reading notes in this file - *these notes are for you, I look them over and check that you did work that will be useful for you to grow your understanding of python and physics.*
 
 
 
